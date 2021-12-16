@@ -93,8 +93,8 @@ To deploy the application to the production environment like elastic beanstalk.
     chose Elastic Beanstalk as a Deploy provider and provide the application name and environment that we created just before.
 
     The pipeline will be created and after successful stages, access the website from elastic beanstalk console.
-
+    Link of the Deployed application:
     http://goa-env.eba-2ccms9gs.us-east-1.elasticbeanstalk.com/store
     http://ufcnate.us-east-1.elasticbeanstalk.com/store
 
-    Private Repo Gitlink- 
+    Private Repo Gitlink- https://github.com/aakashpatil22/UFCdublinshop.git
